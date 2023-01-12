@@ -8,6 +8,9 @@ Portfolio for Data Analyst
 #2. Project - 네이버 영화리뷰 감정분류
 ---
 
+#3. Project - ClaimDetection
+---
+
 #3. Project - 터키어 뉴스 카테고리 분류
 ---
 
